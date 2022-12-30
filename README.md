@@ -11,7 +11,7 @@ In this repository we keep our multiple branch of JavaScript projects.
   - [What We learned](#what-we-learned)
   - [Continued development](#continued-development)
 - [Notes](#notes)
-- [Author](#author)
+- [Authors](#authors)
 
 ## Overview
 
@@ -19,4 +19,16 @@ In this repository we keep our multiple branch of JavaScript projects.
 
 - popup
 
+## Our process
 
+### Built with
+
+### What We learned
+
+### Continued development
+
+## Notes
+
+## Authors
+
+- GitHub - [explorem](https://github.com/explorem), [czarsbenemoriendi](https://github.com/czarsbenemoriendi)
