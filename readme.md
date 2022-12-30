@@ -1,3 +1,1 @@
 # Notes
-
-https://windicss.org/
